@@ -2,7 +2,7 @@
 
 ### Build a Exercise Tracker REST API
 
-Try it on Glitch: https://functional-lan.glitch.me/
+View online: https://functional-lan.glitch.me/
 
 #### User Stories
 
